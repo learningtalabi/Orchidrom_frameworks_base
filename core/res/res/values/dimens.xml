@@ -34,7 +34,7 @@
     <!-- Height of the status bar -->
     <dimen name="status_bar_height">@dimen/status_bar_height_portrait</dimen>
     <!-- Height of the status bar in portrait -->
-    <dimen name="status_bar_height_portrait">24dp</dimen>
+    <dimen name="status_bar_height_portrait">32dp</dimen>
     <!-- Height of the status bar in landscape -->
     <dimen name="status_bar_height_landscape">@dimen/status_bar_height_portrait</dimen>
     <!-- Height of area above QQS where battery/time go -->
@@ -249,10 +249,10 @@
     <dimen name="notification_header_background_height">49.5dp</dimen>
 
     <!-- The top padding for the notification header -->
-    <dimen name="notification_header_padding_top">16dp</dimen>
+    <dimen name="notification_header_padding_top">18dp</dimen>
 
     <!-- The bottom padding for the notification header -->
-    <dimen name="notification_header_padding_bottom">16dp</dimen>
+    <dimen name="notification_header_padding_bottom">18dp</dimen>
 
     <!-- The margin at the bottom of the notification header. -->
     <dimen name="notification_header_margin_bottom">0dp</dimen>
@@ -375,7 +375,7 @@
     <dimen name="keyguard_lockscreen_pin_margin_left">40dip</dimen>
 
     <!-- Height of FaceUnlock view in keyguard -->
-    <dimen name="face_unlock_height">330dip</dimen>
+    <dimen name="face_unlock_height">340dip</dimen>
 
     <!-- Minimum popup width for selecting an activity in ActivityChooserDialog/ActivityChooserView. -->
     <dimen name="activity_chooser_popup_min_width">200dip</dimen>
@@ -405,7 +405,7 @@
     <dimen name="action_button_min_width">56dip</dimen>
 
     <!-- Maximum height for a stacked tab bar as part of an action bar -->
-    <dimen name="action_bar_stacked_max_height">48dp</dimen>
+    <dimen name="action_bar_stacked_max_height">44dp</dimen>
 
     <!-- Maximum width for a stacked action bar tab. This prevents
          action bar tabs from becoming too wide on a wide screen when only
@@ -413,7 +413,7 @@
     <dimen name="action_bar_stacked_tab_max_width">180dp</dimen>
 
     <!-- Size of notification text (see TextAppearance.StatusBar.EventContent) -->
-    <dimen name="notification_text_size">14sp</dimen>
+    <dimen name="notification_text_size">15sp</dimen>
     <!-- Size of notification text titles (see TextAppearance.StatusBar.EventContent.Title) -->
     <dimen name="notification_title_text_size">14sp</dimen>
     <!-- Size of smaller notification text (see TextAppearance.StatusBar.EventContent.Line2, Info, Time) -->
